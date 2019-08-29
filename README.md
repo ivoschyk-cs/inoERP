@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fivoschyk-cs%2FinoERP.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fivoschyk-cs%2FinoERP?ref=badge_shield)
+
 inoERP
 =========================
 
@@ -243,3 +245,7 @@ Ex : One calendar INO_CORP for Corporate and INO_USA, INO_UK for specific countr
 5.	Role Based Access Control
 6.	Content Types – To create custom content types
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fivoschyk-cs%2FinoERP.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fivoschyk-cs%2FinoERP?ref=badge_large)
